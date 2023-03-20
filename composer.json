@@ -1,0 +1,21 @@
+{
+    "name": "zifan/socialite-dingtalk",
+    "description": "Dingtalk OAuth2 Provider for Laravel Socialite",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zifan",
+            "email": "443939412@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0",
+        "ext-json": "*",
+        "socialiteproviders/manager": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+			"Zifan\\SocialiteDingtalk\\": ""
+        }
+    }
+}
