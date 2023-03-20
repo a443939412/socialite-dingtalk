@@ -1,0 +1,2 @@
+# socialiteproviders-dingtalk
+基于socialiteproviders/manager的钉钉第三方登录
