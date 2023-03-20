@@ -17,7 +17,7 @@ Please see the [Base Installation Guide](https://socialiteproviders.com/usage/),
 	'client_secret' => env('DINGTALK_CLIENT_SECRET'),
 	'redirect' => env('DINGTALK_REDIRECT_URI'),
 	// 'guzzle' => ['verify' => false],
-	// 'scopes' => ['openid'] #openid：授权后可获得用户userid；openid corpid：授权后可获得用户id和登录过程中用户选择的组织id
+	// 'scopes' => ['openid'] #openid：授权后可获得用户userid（一般适用于企业内部应用）；openid corpid：授权后可获得用户id和登录过程中用户选择的组织id
 ],
 ```
 
